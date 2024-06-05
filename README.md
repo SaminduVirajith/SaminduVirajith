@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **node, mongoDB**
 
-- 💬 Ask me about **HTML, CSS, javaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **samidu.virajith@gmail.com**
 <br/><br/>
